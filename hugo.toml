@@ -2,3 +2,7 @@ baseURL = 'https://rebornrival.com/'
 languageCode = 'en-us'
 title = "Renée's Realm"
 theme = 'hugo-theme-re-terminal'
+
+[params]
+    themeColor = "pink"
+    Toc = true
